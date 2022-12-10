@@ -1,4 +1,4 @@
-# Omegal-Geolacation-Finder
+# Omegal-Geolocation-Finder
 
 **❗ Use a VPN when accessing Omegle ❗**
 
